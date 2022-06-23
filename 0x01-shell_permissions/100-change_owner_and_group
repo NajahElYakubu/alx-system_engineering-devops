@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincet:staff_hello
+chown -h vincet:staff 0x01-shell_permissions
