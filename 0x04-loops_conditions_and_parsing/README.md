@@ -1,1 +1,3 @@
-tasks on loops and parsing in bash
+# 0x04. Loops, conditions and parsing
+
+## Author: Afolabi John Oluwaseun
